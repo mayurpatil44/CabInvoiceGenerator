@@ -4,3 +4,7 @@ com/invoicegenerator/InvoiceGenerator.java
  com.invoicegenerator.InvoiceGenerator
 com/invoicegenerator/InvoiceSummary.java
  com.invoicegenerator.InvoiceSummary
+com/invoicegenerator/InvoiceService.java
+ com.invoicegenerator.InvoiceService
+com/invoicegenerator/RideRepository.java
+ com.invoicegenerator.RideRepository
