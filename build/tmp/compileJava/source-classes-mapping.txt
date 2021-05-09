@@ -1,10 +1,12 @@
-com/invoicegenerator/Ride.java
- com.invoicegenerator.Ride
-com/invoicegenerator/InvoiceGenerator.java
- com.invoicegenerator.InvoiceGenerator
 com/invoicegenerator/InvoiceSummary.java
  com.invoicegenerator.InvoiceSummary
 com/invoicegenerator/InvoiceService.java
  com.invoicegenerator.InvoiceService
+com/invoicegenerator/Ride.java
+ com.invoicegenerator.Ride
+com/invoicegenerator/RideCategories.java
+ com.invoicegenerator.RideCategories
+com/invoicegenerator/InvoiceGenerator.java
+ com.invoicegenerator.InvoiceGenerator
 com/invoicegenerator/RideRepository.java
  com.invoicegenerator.RideRepository
